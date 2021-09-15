@@ -1,0 +1,4 @@
+cmake
+dlib
+numpy
+scipy
